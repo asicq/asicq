@@ -1,3 +1,5 @@
+<h3>Akitz Dev</h3>
+
 <br><h2> GitHub Statistics: </h2><br>
 
 <p align="center">
