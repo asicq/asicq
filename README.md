@@ -1,6 +1,6 @@
 <h1>Hi, Akitz Dev👌</h1>
 <h3>
-  I am a Russian developer.<br>
+  I am a Russian developer.🇷🇺<br>
 Owner of <a href="https://lzw-studio.ru">KeyTube</a> video hosting (ʙᴇᴛᴀ)
 </h3>
 
