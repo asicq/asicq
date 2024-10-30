@@ -1,6 +1,10 @@
 <h1>Hi, Akitz Dev👌</h1>
 <h3>
-  I am a Russian developer.🇷🇺<br>
+  I am a Russian developer. <img
+  src="https://flagcdn.com/w20/ru.png"
+  srcset="https://flagcdn.com/w40/ru.png 2x"
+  width="20"
+  alt="Россия"><br>
 Owner of <a href="https://lzw-studio.ru">KeyTube</a> video hosting (ʙᴇᴛᴀ)
 </h3>
 
