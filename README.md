@@ -29,12 +29,12 @@ Owner of <a href="https://lzw-studio.ru">KeyTube</a> video hosting (ʙᴇᴛᴀ)
 
 <p align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akitz-dev&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asicq&layout=compact&theme=tokyonight)
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akitz-dev&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats.vercel.app/api?username=asicq&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
 </p>
