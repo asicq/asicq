@@ -1,4 +1,4 @@
-<h1>Hi, Akitz Dev👌</h1>
+<h1>Hi, asicq👌</h1>
 <h3>
   I am a Russian developer. <img
   src="https://flagcdn.com/16x12/ru.png"
@@ -7,7 +7,7 @@
   width="16"
   height="12"
   alt="Россия"><br>
-Owner of <a href="https://lzw-studio.ru">KeyTube</a> video hosting (ʙᴇᴛᴀ)
+Owner of <a href="https://zundyworld.easydonate.ru">ᴢᴜɴᴅʏᴡᴏʀʟᴅ</a> minecraft server (ʙᴇᴛᴀ)
 </h3>
 
 <h3 align="center">Languages</h1>
